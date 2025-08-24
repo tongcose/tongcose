@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @tongcose
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on cyber security company
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding,Networking,Cyber security,Ai
+- 🌱 I’m currently learning programming,networikng,Cyber
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 tongcose/tongcose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
